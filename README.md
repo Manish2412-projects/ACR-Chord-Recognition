@@ -7,8 +7,6 @@ Automatic Chord Recognition with Data Augmentation
 # Noise and Distortion Augmentation
 
 **Authors:** Manish Bandi,
-Douglas W. Cunningham,
-Prashant Varadarajan
 BTU Cottbus-Senftenberg, Germany
 
 ---
