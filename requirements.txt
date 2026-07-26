@@ -1,0 +1,10 @@
+torch
+numpy
+librosa
+scikit-learn
+sklearn-crfsuite
+joblib
+mir_eval
+matplotlib
+scipy
+soundfile
