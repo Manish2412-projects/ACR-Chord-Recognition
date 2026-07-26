@@ -1,0 +1,17 @@
+spectrograms/
+labels/
+models/
+beatles/
+Originals/
+*.npy
+*.pth
+*.joblib
+*.mp3
+*.wav
+*.pkl
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+augmentation_log.json
+splits_baseline.json
+splits_augmented.json
